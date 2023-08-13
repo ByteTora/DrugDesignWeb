@@ -1,6 +1,6 @@
 # Drug Design Web 1.0：a Web Platform of Drug Design
 
-![](https://github.com/ByteTora/DrugDesignWeb/blob/main/AF-Q1ACB3-F1-model_v4.pdb)
+![](https://github.com/ByteTora/DrugDesignWeb/blob/main/HomePage.gif)
 # Introduction
 #### - Platform overview
 Drug Design Web is a web tools for Drug Design, The drug design platform is a convenient tool designed for professionals in fields such as computational chemistry and computational biology. 
