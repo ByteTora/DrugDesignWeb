@@ -74,7 +74,7 @@ class MolGeneration:
             cc1, cc2, cc3 = st.columns(3)
             with cc1:
                 st.button('GENTRL', on_click=open_page, args=('https://github.com/insilicomedicine/gentrl',))
-                st.button('MolGPT', on_click=open_page, args=('https://github.com/devalab/liggpt,))
+                st.button('MolGPT', on_click=open_page, args=('https://github.com/devalab/liggpt',))
                 # link_button("GENTRL", "https://github.com/insilicomedicine/gentrl")
                 # link_button("MolGPT", "https://github.com/devalab/liggpt")
             with cc2:
