@@ -19,7 +19,7 @@ class MolGeneration:
                     """
         st.markdown(hide_streamlit_style, unsafe_allow_html=True)
         col1, col2 = st.columns(2)
-        image = Image.open("//me4012_sw/xub2023/WEB_CONTENT/logo.png")
+        image = Image.open("logo.png")
         col1.image(image, width=250)
         col2.markdown("# MolGeneration")
         col2.markdown(" ### Scaffold-Constrained Drug Design with Graph Transformer-based Reinforcement Learning")
