@@ -1,6 +1,6 @@
 import streamlit as st
 from stmol import showmol
-import streamlit.components.v1 as components
+import streamlit.components.v1 as html
 import py3Dmol
 import pandas as pd
 import numpy as np
