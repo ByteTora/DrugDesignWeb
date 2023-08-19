@@ -50,7 +50,7 @@ def my_main():
         st.markdown(" **Homogentisate Solanesyl Transferase**(HST) by Alphafold2(UniProt: [Q1ACB3](https://www.uniprot.org/uniprotkb/Q1ACB3/entry#structure))")
     col2.markdown("# Computational Biology Department")
     col2.markdown(" ### A platform that integrates commonly used biological computing ")
-    col2.markdown("Create by Kingagroot ")
+    col2.markdown("Create by xubiao ")
     st.markdown("***")
     st.markdown('<style>body { font-size: 16px; }</style>', unsafe_allow_html=True)
     st.markdown("Welcome to the Computational Biology Department, an online platform that provides various computational tools for researchers, biologists, and pharmaceutical developers. Our website offers a range of functionalities such as molecule generation, virtual screening, protein structure prediction, and ADMET prediction, helping you accelerate research progress, discover new drug candidates, and understand the pharmacokinetic properties of drugs.")
@@ -62,7 +62,7 @@ def my_main():
     st.markdown("Whether you are involved in drug development, pharmacology research, or molecular simulation, the Computational Biology Department offers powerful computational tools and accurate prediction results to support your scientific research and pharmaceutical innovations.")
     st.markdown("***")
     st.markdown("**Author:** xubiao")
-    st.markdown("**Email:** xubiao@kingagroot.com")
+    st.markdown("**Email:** 1224897184@qq.com")
 
 
 if __name__ == '__main__':
