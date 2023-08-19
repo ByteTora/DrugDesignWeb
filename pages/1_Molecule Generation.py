@@ -55,6 +55,14 @@ class MolGeneration:
     
     # st.button('Open link', on_click=open_page, args=('https://streamlit.io',))
     def side_bar(self):
+        def open_page(url):
+            open_script= """
+                <script type="text/javascript">
+                    window.open('%s', '_blank').focus();
+                </script>
+            """ % (url)
+            html(open_script)
+            
         myside_bar = st.sidebar
         with myside_bar:
             myside_bar.markdown('## Database_Related links')
