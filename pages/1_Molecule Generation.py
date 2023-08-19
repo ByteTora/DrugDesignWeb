@@ -65,7 +65,7 @@ class MolGeneration:
                 # link_button("ZINC", "https://rdkit.org/")
                 # link_button("DrugBank", "https://www.drugbank.com/")
             with c2:
-                # st.button('ChEMBL', on_click=open_page, args=('https://www.ebi.ac.uk/chembl/',)
+                st.button('ChEMBL', on_click=open_page, args=('https://www.ebi.ac.uk/chembl/',)
                 # st.button('PubChem', on_click=open_page, args=('https://pubchem.ncbi.nlm.nih.gov/',)
                 # link_button("ChEMBL", "https://www.ebi.ac.uk/chembl/")
                 # link_button("PubChem", "https://pubchem.ncbi.nlm.nih.gov/")
