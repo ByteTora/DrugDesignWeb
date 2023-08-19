@@ -61,20 +61,20 @@ class MolGeneration:
             c1, c2 = st.columns(2)
             with c1:
                 st.button('ZINC', on_click=open_page, args=('https://rdkit.org/',)
-                st.button('DrugBank', on_click=open_page, args=('https://www.drugbank.com/',)
+                # st.button('DrugBank', on_click=open_page, args=('https://www.drugbank.com/',)
                 # link_button("ZINC", "https://rdkit.org/")
                 # link_button("DrugBank", "https://www.drugbank.com/")
             with c2:
-                st.button('ChEMBL', on_click=open_page, args=('https://www.ebi.ac.uk/chembl/',)
-                st.button('PubChem', on_click=open_page, args=('https://pubchem.ncbi.nlm.nih.gov/',)
+                # st.button('ChEMBL', on_click=open_page, args=('https://www.ebi.ac.uk/chembl/',)
+                # st.button('PubChem', on_click=open_page, args=('https://pubchem.ncbi.nlm.nih.gov/',)
                 # link_button("ChEMBL", "https://www.ebi.ac.uk/chembl/")
                 # link_button("PubChem", "https://pubchem.ncbi.nlm.nih.gov/")
         with myside_bar:
             myside_bar.markdown('## Generated_Model_Related links')
             cc1, cc2, cc3 = st.columns(3)
             with cc1:
-                st.button('GENTRL', on_click=open_page, args=('https://github.com/insilicomedicine/gentrl',)
-                st.button('MolGPT', on_click=open_page, args=('https://github.com/devalab/liggpt,)
+                # st.button('GENTRL', on_click=open_page, args=('https://github.com/insilicomedicine/gentrl',)
+                # st.button('MolGPT', on_click=open_page, args=('https://github.com/devalab/liggpt,)
                 # link_button("GENTRL", "https://github.com/insilicomedicine/gentrl")
                 # link_button("MolGPT", "https://github.com/devalab/liggpt")
             with cc2:
