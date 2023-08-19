@@ -1,4 +1,3 @@
-link_button
 ipython_genutils
 numpy==1.24.3
 pandas==2.0.3
